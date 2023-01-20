@@ -1,4 +1,15 @@
 h1
 {
     text-align: center;
+    color: red;
+}
+
+h3
+{
+    margin-left: 25px;
+}
+
+h5
+{
+    margin-left: 25px;
 }
